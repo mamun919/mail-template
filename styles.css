@@ -1,0 +1,147 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 900px;
+	 height: 1600px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer0 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 900px;
+	 height: 1600px;
+	 z-index:1;
+} 
+
+ #VectorSmartObject 
+{ 
+	 left: 198px; 
+	 top: 1500px; 
+	 position: absolute; 
+	 width: 504px;
+	 height: 45px;
+	 z-index:2;
+} 
+
+ #RoundedRectangle1cop 
+{ 
+	 left: 173px; 
+	 top: 1493px; 
+	 position: absolute; 
+	 width: 554px;
+	 height: 60px;
+	 z-index:3;
+} 
+
+ #RoundedRectangle1 
+{ 
+	 left: 23px; 
+	 top: 27px; 
+	 position: absolute; 
+	 width: 854px;
+	 height: 1545px;
+	 z-index:4;
+} 
+
+ #Group5 
+{ 
+	 left: 234px; 
+	 top: -71px; 
+	 position: absolute; 
+	 width: 936px;
+	 height: 594px;
+	 z-index:5;
+} 
+
+ #VectorSmartObject_0 
+{ 
+	 left: 47px; 
+	 top: 348px; 
+	 position: absolute; 
+	 width: 440px;
+	 height: 93px;
+	 z-index:6;
+} 
+
+ #VectorSmartObject_1 
+{ 
+	 left: 59px; 
+	 top: 58px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 161px;
+	 z-index:7;
+} 
+
+ #HellothereRakibHassa 
+{ 
+	 left: 68px; 
+	 top: 527px; 
+	 position: absolute; 
+	 width: 764px;
+	 height: 669px;
+	 z-index:8;
+} 
+
+ #button 
+{ 
+	 left: 221px; 
+	 top: 1227px; 
+	 position: absolute; 
+	 width: 430px;
+	 height: 49px;
+	 z-index:9;
+} 
+
+ #Rectangle1 
+{ 
+	 left: 88px; 
+	 top: 1296px; 
+	 position: absolute; 
+	 width: 725px;
+	 height: 192px;
+	 z-index:10;
+} 
+
+ #Rectangle2 
+{ 
+	 left: 140px; 
+	 top: 1346px; 
+	 position: absolute; 
+	 width: 620px;
+	 height: 115px;
+	 z-index:11;
+} 
+
+ #Discountcode 
+{ 
+	 left: 321px; 
+	 top: 1313px; 
+	 position: absolute; 
+	 width: 257px;
+	 height: 26px;
+	 z-index:12;
+} 
+
+ #Launchb365 
+{ 
+	 left: 168px; 
+	 top: 1361px; 
+	 position: absolute; 
+	 width: 563px;
+	 height: 90px;
+	 z-index:13;
+} 
